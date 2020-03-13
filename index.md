@@ -1,0 +1,1983 @@
+﻿
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Aegis 9 Pty Ltd</title>
+	<meta name="description" content="Aegis 9" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
+	<!--<link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />-->
+	<link href="plugins/fontawesome/css/all.css" rel="stylesheet">
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/flexslider.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
+	<link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
+
+	<style type="text/css">
+	</style>
+</head>
+<body>
+
+	<div class="nav-container">
+		<nav style="padding-bottom: 0px !important; ">
+			<div class="nav nav-bar" style="margin-bottom: 0px !important; padding-bottom:40px !important;">
+				<div class="module left">
+					<a href="index.html">
+						<!--<img class="logo logo-light" alt="Aegis 9" src="img/logo-light.png">-->
+						<div class="vnu">
+							<img id="logo" class="logo logo-dark image-xxs" alt="Aegis 9" src="img/logo-small.png" height="18">
+						</div>
+					</a>
+				</div>
+
+				<div class="module widget-handle mobile-toggle right visible-sm visible-xs">
+					<i class="ti-menu"></i>
+				</div>
+
+				<div class="module-group right">
+					<div class="module left">
+						<ul class="menu">
+							<li>
+								<a href="#home-container" class="inner-link" target="_self">Home</a>
+							</li>
+							<li>
+								<a href="#about-container" class="inner-link" target="_self">Executive Leadership Team<br><br> </a>
+							</li>
+							<li>
+								<a href="#services-container" class="inner-link">Our Services<br><br> </a>
+							</li>
+							<li>
+								<a href="#methods-container" class="inner-link" target="_self">Our Methods<br><br><br> </a>
+							</li>
+							<li>
+								<a href="#contact-container" class="inner-link" target="_self">Contact<br><br><br><br> </a>
+							</li>
+						</ul>
+					</div>
+
+					<div class="module widget-handle language left hidden-xs">
+						<ul class="menu">
+							<li>
+								<a href="#careers-container" class="inner-link">Careers</a>
+							</li>
+						</ul>
+					</div>
+
+					<div class="module widget-handle language left hidden-xs">
+						<ul class="menu">
+							<li>
+								<a href="#" class="inner-link"><i class="fas fa-sign-in-alt" style="color:#333 !important;"></i>&nbsp;</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</div>
+
+	<div id="home-container" class="page-content">
+		<section class="image-slider slider-all-controls controls-inside parallax pt0 pb0 height-70" style="max-height:550px !important">
+			<ul class="slides">
+				<li class="overlay image-bg" style="max-height:550px !important">
+					<div class="background-image-holder">
+						<img alt="image" class="background-image" src="img/597024146.jpg" style="background-color: rgba(0,0,0,0.9) !important;">
+					</div>
+					<div class="container-fluid v-align-transform">
+						<div class="row text-center">
+							<div class="col-lg-9 col-md-9 col-lg-offset-4 col-md-offset-3 pt-xs-160">
+								<h1 class="mb-xs-16" style="color: #dddddd !important;">
+									<strong>Your organisation is unique.</strong>
+									<br />
+									Your security should be too.
+								</h1>
+								<p class="lead mb40 bold">
+									<h4 class="bold" style="color: #eeeeee !important;">
+										Aegis 9 specialises in delivering efficient and effective <br />security programs and frameworks
+									</h4>
+								</p>
+								<br />
+								<a class="btn btn-lg btn-primary hidden-sm hidden-xs" href="#services-container">Read More</a>
+							</div>
+
+						</div>
+
+					</div>
+
+				</li>
+
+				<li class="overlay image-bg">
+					<div class="background-image-holder">
+						<img alt="image" class="background-image" src="img/1555949963.jfif">
+					</div>
+					<div class="container v-align-transform">
+						<div class="row text-center">
+							<div class="col-md-10 col-md-offset-1">
+								<h1 class="mb-xs-16 bold">Meet Foundry, the cleverest way<br class="hidden-sm"> to build your next site.</h1>
+								<p class="lead mb40 bold">
+									<h4 class="bold">
+										Build beautiful, contemporary sites in just moments
+										<br>with Foundry and Variant Page Builder.
+									</h4>
+								</p>
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="overlay image-bg">
+					<div class="background-image-holder">
+						<img alt="image" class="background-image" src="img/1073337962.jpg">
+					</div>
+					<div class="container v-align-transform">
+						<div class="row text-center">
+							<div class="col-lg-8 col-md-10 col-md-offset-4">
+								<h1 class="mb-xs-16 bold" style="color:#d8d8d8 !important">Security Intelligence & Architecture</h1>
+								<p class="lead mb40 bold" style="color:#d8d8d8 !important">
+									<h4 class="bold">
+										Some details about security services
+										<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+									</h4>
+								</p>
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="overlay image-bg">
+					<div class="background-image-holder">
+						<img alt="image" class="background-image" src="img/1557597774.jfif">
+					</div>
+					<div class="container v-align-transform">
+						<div class="row text-center">
+							<div class="col-md-10 col-md-offset-1">
+								<h1 class="mb-xs-16 bold">Meet Foundry, the cleverest way<br class="hidden-sm"> to build your next site.</h1>
+								<p class="lead mb40 bold">
+									<h4 class="bold">
+										Build beautiful, contemporary sites in just moments
+										<br>with Foundry and Variant Page Builder.
+									</h4>
+								</p>
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="overlay image-bg">
+					<div class="background-image-holder">
+						<img alt="image" class="background-image" src="img/projects.jpg">
+					</div>
+					<div class="container v-align-transform">
+						<div class="row text-center">
+							<div class="col-md-7 col-md-offset-6 pt-xs-160">
+								<h1 class="mb-xs-16 bold" style="color: #f9f9f9 !important;">Portfolio, Project & Program Management</h1>
+								<p class="lead mb40 bold">
+									<h4 class="bold" style="color: #f9f9f9 !important;">
+										Details for services on project management
+										<br>and why A9 delivers it and how.<br /><br /><br /><br />
+									</h4>
+								</p>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</section>
+
+		<section class="pb64 pb-xs-40" >
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3 col-sm-6 mb40 mb-xs-24 text-center">
+						<i class="fa fa-calculator fa-3x"></i>
+						<h4>Enterprise & Audit<br />&nbsp;</h4>
+						<p>
+							With a plethora of purpose-built content blocks, colors and fonts, Foundry presents a mind-boggling number of combinations. Test drive the builder now!
+						</p>
+						<br />
+						<a class="btn" href="#">Explore</a>
+					</div>
+					<div class="col-md-3 col-sm-6 mb40 mb-xs-24 text-center">
+						<i class="fas fa-shield-alt fa-3x"></i>
+						<h4>Security<br />&nbsp;</h4>
+						<p>
+							We've built a buttery smooth parallax scrolling experience with a heavy focus on performance. Extensively tested across a range of browser and mouse types.
+						</p>
+						<br />
+						<a class="btn" href="#">Explore</a>
+					</div>
+					<div class="col-md-3 col-sm-6 mb40 mb-xs-24 text-center">
+						<i class="fas fa-file-signature fa-3x"></i>
+						<h4>Tech Writers<br />&nbsp;</h4>
+						<p>
+							10 Fresh and unique concepts included out of the box. From portfolio to property showcase, Foundry's adaptable look is perfect for your next project.
+						</p>
+						<br />
+						<a class="btn" href="#">Explore</a>
+					</div>
+					<div class="col-md-3 col-sm-6 mb40 mb-xs-24 text-center">
+						<i class="fas fa-tasks fa-3x"></i>
+						<h4>Portfolio, Program & Project Management</h4>
+						<p>
+							With over 100 pre-made HTML templates included, it's easier than ever to find a look that suits you. If not, just create your own with Variant Page Builder!
+						</p>
+						<br />
+						<a class="btn" href="#">Explore</a>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--
+		<section class="image-edge bg-dark" style="padding: 0px !important; min-height: 900px !important;">
+			<div class="col-md-6 col-sm-4 p0 m-0 text-center">
+				<img alt="Screenshot" class="mb-xs-24" src="img/laptop2.png" height="800">
+			</div>
+			<div class="container">
+				<div class="col-md-offset-1 col-sm-7 col-sm-offset-1 v-align-transform right col-md-6">
+					<h1 class="mb40 mb-xs-16 "><strong>Your organisation is unique.</strong> Your security should be too.</h1>
+
+					<p class="lead mb0" style="font-size: 14pt;">
+						Aegis 9 specialises in delivering efficient and effective security programs and frameworks to
+						<span style="" class="output" id="type-output">
+							<span class="cursor" style="font-size: 14pt !important;"></span>
+						</span>
+					</p>
+
+					<br />
+
+					<a class="btn btn-lg btn-white" href="#services-container">Discover A9<br></a>
+				</div>
+			</div>
+		</section>
+		--->
+		<!--
+		<section class="image-square left">
+			<div class="col-md-6 image">
+				<div class="background-image-holder">
+					<img alt="image" class="background-image" src="img/869149488.jpg">
+				</div>
+			</div>
+			<div class="col-md-6 col-md-offset-1 content">
+				<h2>WHAT WE DO</h2>
+				<p class="mb0" style="text-align: justify; font-size: medium;">
+					When your operational tempo and delivery ramps up, systemic cracks can appear in your information security. Your security service delivery starts to become reactive. That’s where Aegis 9 comes in. We get you back on the front foot and keep you there.
+				</p>
+				<br />
+				<a class="btn-lg btn" href="#services-container">Our Services<br></a>
+			</div>
+		</section>
+
+		<section class="image-square right bg-dark">
+			<div class="col-md-6 image">
+				<div class="background-image-holder">
+					<img alt="image" class="background-image" src="img/671400360.jpg">
+				</div>
+			</div>
+			<div class="col-md-6 content">
+				<h2>HOW WE DO IT</h2>
+				<p class="mb0" style="text-align: justify; font-size: medium;">
+					We focus on the big picture so you don’t have to—looking at your individual needs to ensure all information security layers and pillars are connected and generating meaningful information.
+				</p>
+				<br />
+				<a class="btn-lg btn btn-white" href="#methods-container">Our Method<br></a>
+			</div>
+		</section>
+
+		<section>
+			<div class="container">
+				<div class="row v-align-children">
+					<div class="col-sm-5 mb-xs-24 col-md-8">
+						<h3>Can <img src="img/logo.png" height="18"> help me?</h3>
+						<p style="text-align: justify; font-size: medium;">
+							Absolutely. We already assist a diverse range of public and private enterprise clients.<br />Let’s start simple—what’s your business?
+						</p>
+
+						<div>
+							<a class="btn-sm btn col-md-3" href="#serviceprovider-container" style="padding-left: 4px !important; padding-right: 4px !important;">Service Providers</a>
+							<a class="btn-sm btn col-md-3" href="#organisations-container" style="padding-left: 4px !important; padding-right: 4px !important;">Organisations</a>
+							<a class="btn-sm btn col-md-3" href="#careers-container" style="width:200px !important; padding-left: 4px !important; padding-right: 4px !important">Current Opportunities</a>
+						</div>
+					</div>
+
+					<div class="col-md-4 col-md-offset-1 col-sm-6 col-sm-offset-1 text-center">
+						<img alt="" src="img/nine.png">
+					</div>
+				</div>
+
+			</div>
+
+		</section>
+			-->
+	</div>
+
+	<div id="about-container" class="page-content">
+		<section class="image-bg overlay pt140 pb240 pt-xs-140 pb-xs-180" style="max-height:550px !important;">
+			<div class="background-image-holder">
+				<img alt="image" class="background-image" src="img/741600652.jpg">
+			</div>
+			<div class="container-fluid" style="padding-left:60px !important; padding-right:60px !important;">
+				<div class="row">
+					<div class="col-lg-6">
+						<h2 class="mb0 uppercase bold italic" style="color:#d8d8d8 !important;">Strap yourself in for ideas</h2>
+						<h5 class="uppercase bold mt32 mb32" style="color:#d8d8d8;">Aegis 9’s skilled and highly experienced personnel have an average of 17 years’ experience in the security industry and have delivered programs for large Government departments and private enterprises alike. They undertake work across the full breadth of security requirements</h5>
+						<button class="btn btn-lg btn-primary hidden-md hidden-sm hidden-xs" href="#serviceprovider-container" data-toggle="modal" data-target="#aboutModal">Read More</button>
+					</div>
+				</div>
+
+			</div>
+		</section>
+
+		<section>
+			<div class="container">
+
+				<div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+					<div class="modal-dialog modal-xl" role="document" style="min-width: 900px !important; width: 980px !important;">
+						<div class="modal-content">
+							<div class="modal-header">
+								<h5 class="modal-title" id="exampleModalLabel"><strong>What <img src="img/logo.png" height="10" /> does</strong></h5>
+								<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									<span aria-hidden="true">&times;</span>
+								</button>
+							</div>
+							<div class="modal-body bg-light">
+								<p>
+									Aegis9 is an Australian owned consultancy that specialises in providing tailored security solutions for both public and private sector clients, based on their specific needs.
+									We understand that all aspects of security should be part of the business and not prevent it from being undertaken.
+									Our approach is to understand the nature of the business to design and deliver an overarching security framework, incorporating relevant processes and tools.
+									This approach ensures that all security layers and pillars are interconnected and generate meaningful information that supports business outcomes.
+								</p>
+								<p>
+									Aegis9’s skilled and highly experienced personnel have an average of 17 years’ experience in the security industry, and have delivered programs for large Government departments and private enterprises alike.
+									They undertake work across the full breadth of security requirements including high level enterprise risk and governance through to security analytics within a Security Operation Centre.
+									Aegis9 provides physical, personnel, information, and cyber capabilities and has unparalleled expertise to deliver accreditation against a range of Government and industry standards including IRAP, ISM, PSPF, ISO and NIST.
+								</p>
+
+								<p>
+									Aegis9 understands that the one size fits all approach has significant limitations including not identifying security gaps and weaknesses or, at the other end of the spectrum, stifling business under an unnecessary and complex security burden.
+									Aegis9 supports business objectives and implements a risk-based and pragmatic approach to securing key assets.
+									Risk is assessed using empirical evidence when the solution is implemented.
+									Risk is then monitored and reassessed on an ongoing basis, with the outcomes informing the improvement of the overall solution.
+									Aegis9 seeks to integrate with existing governance structures within its clients to reduce the management burden on business.
+								</p>
+
+								<p>
+									At Aegis 9, we focus on more than just security. Through our tailored approach, we seek to find the balance between product, process, and people—ensuring that the overall framework exists to deliver the best outcomes for your organisation.
+									Our team will work with you to design, implement and manage a security solution that delivers real, ongoing and lasting results.
+								</p>
+							</div>
+							<div class="modal-footer">
+								<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-11">
+						<div class="overflow-hidden">
+							<div class="pull-left pt14">
+								<h4>Lauritz Strydom - Co-founder</h4>
+							</div>
+						</div>
+						<p style="text-align:justify;">
+							Lauritz has in excess of 25 years’ experience in the ICT industry. He holds a Post Graduate Diploma in Electronic Engineering, and certifications in CISSP, CISM, and CISA as well as being a certified Infosec’ Registered Assessor Program (I-RAP) assessor.
+							Lauritz is a member of the Information Systems Audit and Control Association (ISACA) and is qualified in SABSA - Security Architecture.
+						</p>
+
+						<p style="text-align:justify;">
+							Lauritz has previously performed the role of IT Security Advisor (ITSA) and Agency Security Advisor (ASA) for Geoscience Australia, providing him great insight into Australian Government requirements.
+							This knowledge has enabled him to undertake a wide range of government related work in the private sector including conducting secure configuration and IRAP assessments of ICT infrastructure. The assessments encompassed secure gateways & systems at a range of classification levels.
+							Lauritz is at the forefront of the Australian Government’s transition to cloud-based services through the assessment of cloud providers and products to meet certification standards.
+						</p>
+
+						<p style="text-align:justify;">
+							Lauritz’s experience includes project management, security manager roles, developing disaster recovery
+							specifications for data centres and conducting network audits against the PSPF, ISM, DSM, and ISO 27001.
+						</p>
+
+						<p style="text-align:justify;">
+							He has strong business communication skills and can communicate with clients at all levels within an organisation on a technical and non-technical basis and his project management skills ensure he manages time and budget effectively.
+						</p>
+						<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
+					</div>
+
+					<div class="col-md-11">
+						<div class="overflow-hidden">
+							<div class="pull-left pt14">
+								<h4>Ben Aldridge - Co-founder</h4>
+							</div>
+						</div>
+						<p style="text-align:justify;">
+							Ben has over 20 years’ experience in ICT with most of that time spent focussed on Security and Risk. He spent six years working in risk management, security and technical roles within the Department of Defence.
+							Since then Ben has performed a wide range of roles incorporating project management, security manager, developing security frameworks and delivery models, cyclic review programs, cyber resiliency programs, security documentation development, and IRAP gap analysis services.
+						</p>
+
+						<p style="text-align:justify;">
+							Ben specialises in designing and implementing the full spectrum of security governance programs that integrate seamlessly with the broader business to realise efficiencies and generate a real time view of the organisation’s security posture.
+							His approach is to demystify security for clients, removing the sales element from engagements and focus on developing strategic partnerships to implement robust but practical and cost-effective security solutions.
+						</p>
+
+						<p style="text-align:justify;">
+							Over the past 15 years, Ben has designed, delivered, and managed large Security Frameworks and Programs for Defence, ATO, the former Country Energy, and Home Affairs.
+							He has a diverse range of professional experience, allowing the opportunity to provide logical business outcome-focused security solutions.
+						</p>
+						<p>
+							Ben’s core areas of expertise include governance programs, security, risk management, ISO27001, IRAP, and security service delivery models.
+							Ben has an extensive background with Defence’s Chief Information Officer Group (CIOG), the Australian Taxation Office (ATO), and Home Affairs.
+						</p>
+						<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
+					</div>
+
+					<div class="col-md-11">
+						<div class="overflow-hidden">
+							<div class="pull-left pt14">
+								<h4>Shane Edwards - CEO | Aegis9 Security Intelligence Division</h4>
+							</div>
+						</div>
+						<p>
+							Shane has over 30 years’ experience in all facets of intelligence and security.
+							Shane has operated in diverse and challenging environments throughout the world leading tactical, strategic and operational HUMINT, SIGINT, OSINT and CYBER operations.
+							Shane holds a Bachelor of Business degree and a Master of Business Administration (MBA), along with a range of intelligence and analysis qualifications.
+						</p>
+						<p>
+							Shane is focussed on delivering tailored Security Intelligence solutions to clients, including training and services in Intelligence Analysis, OSINT and CYBER Threat Hunting.
+							Aegis9 Security Intelligence also provides ICT solutions for large data-oriented clients from an Intelligence, Cyber (Security Operations and Threat Hunting) and Crime (Fraud) perspective.
+							Shane has experience utilising the IBM i2 suite of products along with ‘best of breed’ third party plug-ins.
+						</p>
+
+						<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
+					</div>
+
+					<div class="col-md-11">
+						<div class="overflow-hidden">
+							<div class="pull-left pt14">
+								<h4>Neil Sunshine - Director | Aegis9 PMO</h4>
+							</div>
+						</div>
+
+						<p>
+							Neil is a certified Portfolio, Program, Project (P3M) and Change Manager as well as a Maturity Assessor.
+							He has over 30 years’ experience in ICT, with in excess of twenty years’ experience in ICT Infrastructure.
+							Neil possesses a strong understanding of ICT within Federal Government.
+						</p>
+						<p>
+							As a Portfolio Manager Neil managed a team of Project and Program Managers for HP and managed the transition of the most significant transformation program undertaken in Australia, the amalgamation of the Child Support Agency, Medicare and Centrelink into the new Department of Human Services (DHS).
+						</p>
+						<p>
+							Neil has led change initiatives specialising in ICT security compliance and assurance roles for major organisations including Queensland State departments, NZ Health Boards and the federal government.
+							In recent years Neil has led deliveries of Security Operations Centres (SOCs), IRAP compliance for tier 1 ICT companies and change in complex Security Architecture environments.
+						</p>
+
+						<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
+					</div>
+
+					<div class="col-md-11">
+						<div class="overflow-hidden">
+							<div class="pull-left pt14">
+								<h4>Janstan Espanosa - CEO | Aegis9 Audit and Assurance</h4>
+							</div>
+						</div>
+
+						<p>
+							Janstan holds Bachelor’s degrees in Electronics and Communications Engineering along with Actuarial Studies. He holds certifications in CISM, and CISA, and is a member of the Information Systems Audit and Control Association (ISACA).
+							Janstan has a decade of experience in business operations and information security backed by a successful track record of dealing with various projects in complex and international environments.
+						</p>
+						<p>
+							Janstan has experience at the Department of Defence and as a Security Certification Consultant.
+							These engagements have seen him work in projects that involved secure configuration and assessments of IT infrastructure including Secure Satellites, Weapon Systems, Security Operations Centres, Gateways, and IT Systems.
+							He has also been responsible for the assessment of Cloud Services for the Australian Government using the different Cloud Service and Deployment models at a range of classification levels.
+						</p>
+						<p>
+							Janstan has significant expertise in security architecture, security risk assessment, security documentation development, incident response management and security operations.
+							His roles included project management, security manager, developing disaster recovery specifications for data centres and conducting audits against the PSPF, ISM, eDSM, and ISO 27001.
+							Janstan also has experience in setting-up and working in Security Operations Centre (SOC) and Incident Response Team (CSIRT/CERT) environments.
+						</p>
+
+						<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
+					</div>
+
+					<div class="col-md-11">
+						<div class="overflow-hidden">
+							<div class="pull-left pt14">
+								<h4>Rafal Lukasiewicz - CEO | Aegis9 Techm8</h4>
+							</div>
+						</div>
+
+						<p>
+							Rafal has more than 30 years international experience in ICT security, architecture, strategies and systems delivery, covering risk assessment, data management, planning and implementation in the Defence, Government, academic and mining sectors.
+							Rafal is a member of the Information Systems Audit and Control Association (ISACA) and holds certifications in CISM and CRISC.
+						</p>
+						<p>
+							Rafal holds a Diploma in Electronic Engineering and has a passion for technology.
+							Over the years he has received certifications from vendors Microsoft, HP, Cisco, WatchGuard or VMware, just to name a few.
+							In the past, Rafal was developing custom solutions for local and State Government agencies specialising in secure network and communication systems.
+							More recently, Rafal was working as an IT Security Advisor (ITSA) and ICT Manager for South Australian State Government implementing PSPF, ISM and AUS/NZ 27001 standards.
+						</p>
+
+						<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
+					</div>
+
+					<div class="col-md-11">
+						<div class="overflow-hidden">
+							<div class="pull-left pt14">
+								<h4>Maria Pulitano - Operations Manager | Aegis9</h4>
+							</div>
+						</div>
+
+						<p>
+							Maria is an ICT professional with 16 years’ experience providing business solutions to Federal Government Departments. Maria holds a Diploma of Leadership and Management.
+						</p>
+						<p>
+							Her most recent experience as a Senior Manager in Cyber Security was to develop new Cyber Security Offerings for the Federal and Enterprise market, this included an establishment of a Secure Operating Centre to the protected level. 
+							With extensive experience working in high workload ICT and Cyber Security environments, her professional history is emphasised by the level of evident people management skills, client-focused service delivery and sales expertise.
+						</p>
+						<p>
+							Maria has led large teams of specialised, security cleared security experts to deliver outcomes to clients and has experience in transitioning large workforces to new engagements.
+						</p>
+					</div>
+				</div>
+
+			</div>
+
+		</section>
+	</div>
+
+	<div id="services-container" class="page-content hidden">
+
+		<section class="image-bg overlay pt200 pb240 pt-xs-240 pb-xs-100" style="max-height:550px !important;">
+			<div class="background-image-holder">
+				<img alt="image" class="background-image hidden-xs" src="img/1054629320.jpg">
+			</div>
+			<div class="container-fluid" style="padding-left:60px !important; padding-right:60px !important;">
+				<div class="row">
+					<div class="col-lg-6 col-md-9 col-sm-12">
+                        <h3 class="uppercase bold" style="color: #d8d8d8 !important;">We can provide any of these services on an 'as required' basis <span class="hidden-xs bold" style="color: #d8d8d8 !important;">or based on our tailored A9-BSS</span>.</h3>
+						<h5 class="uppercase bold" style="color:#d8d8d8;">
+							When your operational tempo and delivery ramps up, systemic cracks can appear in your information security. 
+							Your security service delivery starts to become reactive. 
+							<span class="hidden-xs bold" style="color:#d8d8d8;">That’s where Aegis 9 comes in. </span>
+							We get you back on the front foot and keep you there.
+						</h5>
+					</div>
+				</div>
+
+			</div>
+		</section>
+
+		<section class="">
+			<div class="container col-md-11">
+				<div class="row">
+					<div class="col-sm-12">
+						<div class="tabbed-content button-tabs vertical">
+							<ul class="tabs">
+								<li class="active">
+									<div class="tab-title">
+										<span>Enterprise/Strategy</span>
+									</div>
+
+									<div class="tab-content">
+										<h5 class="uppercase"><strong>Enterprise/Strategy</strong></h5>
+										<hr>
+										<p style="text-align:justify;">
+											Aegis9 provides comprehensive enterprise security solutions tailored to meet client needs.
+											Aegis9 undertakes an assessment of the business’ security requirements across all elements of the business to ensure a comprehensive solution is developed.
+											We will identify security risks and develop an overarching framework to mitigate, manage and monitor the risks on an ongoing basis.
+											Our frameworks are designed to fit within existing service delivery methodologies and can be tailored for the specific client.
+											For example, our framework can be deployed in a waterfall manner, agile, hybrid-agile, ITIL or other to ensure seamless integration into existing structures.
+											This approach minimises the impact on existing business practices and ensures security does not become siloed within the organisation.
+											The framework will provide for cyclical improvement so new security threats are identified and addressed as they emerge. Our capabilities in enterprise and strategic security solutions cover:
+										</p>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Enterprise Risk</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Governance and Framework Design</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Holistic Enterprise Security</p>
+													</div>
+												</div>
+
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Strategic Review and Design</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Protective Security Policy Framework (PSPF)</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Security Service Delivery</p>
+													</div>
+												</div>
+
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Business Continuity Planning</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Training</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Program Management</p>
+													</div>
+												</div>
+
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Critical Infrastructure Reviews</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Threat Environment Analysis</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Integration</p>
+													</div>
+												</div>
+
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Cybersecurity Capability Maturity Mode (C2M2)</p>
+													</div>
+												</div>
+
+											</div>
+
+										</div>
+									</div>
+								</li>
+
+								<li>
+									<div class="tab-title">
+										<span>Audit, Compliance, and Maturity</span>
+									</div>
+									<div class="tab-content">
+										<h5 class="uppercase"><strong>Audit, Compliance, and Maturity</strong></h5>
+										<hr>
+										<p>
+											Aegis9 has extensive experience designing, implementing and managing comprehensive security programs to adhere to, or be certified to, a wide range of government and industry standards.
+											These have been delivered to clients requiring additional assurance their security programs meet certain standards for reporting requirements, or those providing services to government departments and agencies that require a range of standards be met as part of contractual obligations.
+											The Aegis9 Audit, Compliance and Maturity capabilities include
+										</p>
+
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Security Program Design</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Control Effectiveness Review</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Compliance and Assurance</p>
+													</div>
+												</div>
+
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Program and Project Management</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Training</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Documentation</p>
+													</div>
+												</div>
+
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Certification and Accreditation</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Documentation Review</p>
+													</div>
+												</div>
+
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Compliance and Risk Integration</p>
+													</div>
+												</div>
+
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Large Scale Compliance and Risk Assessments</p>
+													</div>
+												</div>
+
+											</div>
+										</div>
+
+									</div>
+								</li>
+
+								<li>
+									<div class="tab-title">
+										<span>Physical and Personnel Security</span>
+									</div>
+									<div class="tab-content">
+										<h5 class="uppercase"><strong>Physical and Personnel Security</strong></h5>
+										<hr>
+										<p>
+											Aegis9 provides the capability to design, implement and manage all aspects of a client’s physical and personnel security requirements.
+											As part of its comprehensive security service, Aegis9 offers physical and personnel security elements including improving building access and security, incorporating secure areas and obtaining government security clearances.
+											The range of services provided incorporates the following areas of expertise
+										</p>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Advice and Project Management</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Agency and Corporate Security Policy</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Security Construction and Equipment Committee (SCEC)</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Protective Security Policy Framework (PSPF)</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Security Vetting</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Protective Security Training</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Plans and Procedures</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Security Construction</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Compliance and Risk Integration</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+
+								<li>
+									<div class="tab-title">
+										<span>Security Intelligence</span>
+									</div>
+									<div class="tab-content">
+										<h5 class="uppercase"><strong>Security Intelligence</strong></h5>
+										<hr>
+										<p>
+											Information does not have to be classified to be valuable. Open Source Intelligence (OSINT) is unclassified, accessible, and one of the largest sources of intelligence available.
+											In many cases it is not leveraged to its full potential due to several factors including volume, language, format and insight (the ability to understand what has been collected).
+											OSINT is utilised to enhance investigations and responses to threats.  Moreover, OSINT techniques can help decrease research time, recognise new sources, construct timelines, chart networks, execute link analysis, and more
+										</p>
+
+										<p>
+											Aegis9 Security Intelligence has a comprehensive range of products, services and training that enable clients to develop and utilise OSINT to provide timely, relevant and accurate knowledge base in ways that identify threats and enhance security outcomes.
+											These services are provided by Aegis9’s Security Intelligence staff who have extensive military, law enforcement and intelligence backgrounds.
+											Their experience and skills support the delivery of these services to clients in government, military, law enforcement, intelligence, finance, insurance and recruitment agencies. Our services include
+										</p>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Intelligence Operations</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Cyber Security</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Fraud Investigations</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>OSINT Training</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Cyber Threat Intelligence</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Crime Investigations</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Competitor Analysis</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Cyber Threat Hunting</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Anti-Money Laundering</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Targeting</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Regional Analysis - Political & Economic</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Background Checks</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Penetration Testing</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Social Engineering</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Control Effectiveness Reviews</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+
+								<li>
+									<div class="tab-title">
+										<span>Security Architecture</span>
+									</div>
+									<div class="tab-content">
+										<h5 class="uppercase"><strong>Security Architecture</strong></h5>
+										<hr>
+										<p>
+											Security Architecture is the design of an integrated security plan that takes into account the key risks relevant to that particular client and identifies controls that should be implemented to mitigate these risks.
+											Aegis9 has experience in developing comprehensive security architecture for clients of various scale and complexity.
+											We use a consistent approach to developing the security architecture to ensure the best outcomes, but tailor solutions based on the client’s risk profile, systems and any other requirements or existing frameworks.
+											Our approach and skills incorporate the following approaches and elements:
+										</p>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Secure by Design</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>High Level Design</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Detailed Design</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Enterprise Architecture</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Domain Architecture</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Solution Architecture</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Technology Stack Integration</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Product Comparison Analysis</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>SIEM and SOC Design</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+
+								<li>
+									<div class="tab-title">
+										<span>SOC/Security Analyst</span>
+									</div>
+									<div class="tab-content">
+										<h5 class="uppercase"><strong>SOC/Security Analyst</strong></h5>
+										<hr>
+										<p>
+											Aegis9 can implement a fully functioning Security Operations Centre (SOC) with its own analysts to provide clients with a key component of cybersecurity management on a 24/7 basis.
+											Our Security Analysts and Engineers manage all operational elements of the SOC to bring clients peace of mind knowing their systems are being constantly monitored for existing and emerging threats and when threats are detected action is taken to prevent breaches.
+											Our SOC capability includes:
+										</p>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Security Information and Event Management (SIEM)</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Log Analysis</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Trend Analysis</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Incident Response</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Risk Assessment</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Threat Analytics</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Documentation Review</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Compliance Assessment</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Access Control</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Gateways/Firewalls</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Encryption</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Patching</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<p>
+											The Aegis9 SOC will be constantly monitoring real-world attacks, identifying Advanced Persistent Threat, vulnerabilities and exploits to provide a comprehensive view of the threat landscape.
+											The learnings from this will enable the SOC to better identify current and potential malicious actions against our client’s systems.
+										</p>
+
+										<p>
+											The SOC will monitor the environment and undertake threat analytics and detection activities to identify potential breaches of the environment, including from internal actors whose out of pattern behaviours may indicate a potential security issue.
+											It will then implement appropriate and measured responses that will follow a pre-defined incident response process that minimises the impact to the broader organisation.
+											Responses can include hunt activities where an adversary is, if they are detected within the environment, tracked and removed.
+										</p>
+
+										<p>
+											The SOC will be proactive in its defence of our client’s systems.
+											Our personnel are able to undertake simulated attacks against the environment to identify vulnerabilities and exploitable weaknesses and test the effectiveness of implemented controls.
+											Aegis9’s defensive capabilities are deployed throughout the environment at the technical, system, and personnel levels, and represent a holistic approach to providing assurance over the systems and information.
+										</p>
+									</div>
+								</li>
+
+								<li>
+									<div class="tab-title">
+										<span>Tech writers</span>
+									</div>
+									<div class="tab-content">
+										<h5 class="uppercase"><strong>Tech writers</strong></h5>
+										<hr>
+										<p>
+											Aegis9’s technical writers take often complex security information and make it comprehendible for non-security expert decision-makers.
+											The ability to demystify security practices and remove or explain industry jargon enables decision-makers to understand security related information, requirements and events and make informed evidence based decisions.
+											Our tech-writers provide the following services:
+										</p>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Template Design</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Content Creation</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Quality Assurance</p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</li>
+
+								<li>
+									<div class="tab-title">
+										<span>Portfolio, Program and Project Management</span>
+									</div>
+									<div class="tab-content">
+										<h5 class="uppercase"><strong>Portfolio, Program and Project Management</strong></h5>
+										<hr>
+										<p>
+											Aegis9 can provide clients with Portfolio, Program and Project Management expertise as part of its comprehensive approach to managing security needs.
+											Aegis9 personnel have experience in managing the delivery of complex programs, including security programs, to ensure they remain on time and on budget, giving clients confidence their security requirements will be met and effectively managed on an ongoing basis.
+											Our expert team can provide the following services as part of our overall management capabilities:
+										</p>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Business Case Development</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Program Design</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Budget Design and Management</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Schedule Design Management</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Risk and Issues Management</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Maturity Assessments</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<div class="row">
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Stakeholder Engagement</p>
+													</div>
+												</div>
+											</div>
+
+											<div class="col-sm-4">
+												<div class="feature boxed">
+													<div class="text-center">
+														<p>Change Management</p>
+													</div>
+												</div>
+											</div>
+										</div>
+
+										<p>
+											Aegis9 utilises industry standard frameworks when delivering programs and projects.
+											Its toolset is based on Portfolio, Program and Project delivery toolset (P3M) and utilises the best components of Management of Portfolios (MoP), Managing Successful Programmes (MSP) and PRINCE2 project delivery.
+											This approach ensures a strong delivery capability that has consistently delivered complex programs on time and on budget.
+										</p>
+									</div>
+								</li>
+							</ul>
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+
+		</section>
+
+	</div>
+
+	<div id="methods-container" class="page-content hidden">
+		<section class="image-bg overlay pt100 pb100 pt-xs-60 pb-xs-180" style="max-height:550px !important;">
+			<div class="background-image-holder">
+				<img alt="image" class="background-image fade" src="img/outcomes.jpg">
+			</div>
+			<div class="container-fluid" style="padding-left:60px !important; padding-right:60px !important;">
+				<div class="row">
+					<div class="col-md-8 col-sm-12">
+						<h3 class="mb0 uppercase bold" style="color: #d8d8d8 !important;">One size rarely fits all. <span class="hidden-xs bold" style="color: #d8d8d8 !important;">So why move to a single delivery model that doesn’t suit your specific needs?</span></h3>
+						<h5 class="uppercase bold mt32 mb32" style="color:#d8d8d8;">We focus on the big picture so you don’t have to—looking at your individual needs to ensure all information security layers and pillars are connected and generating meaningful information.</h5>
+					</div>
+				</div>
+
+			</div>
+		</section>
+
+		<section>
+			<div class="container">
+				<div class="row v-align-children">
+					<div class="col-md-6 col-sm-5 mb-xs-24">
+						<h3>Blended Security Solution</h3>
+						<p style="text-align:justify;">
+							Managed Service can be resource heavy and cumbersome, but can help with continuity and corporate knowledge.
+						</p>
+						<p style="text-align:justify;">
+							Security as a Service can be cost effective, but may be too sporadic and doesn’t always provide continuity or build internal capability.
+						</p>
+						<p style="text-align:justify;">
+							The Aegis 9 Blended Security Solution (A9-BSS) model is different. We offer a blended, tailored solution, comprising varying degrees of Security as a Service and Managed Services.
+						</p>
+						<p style="text-align:justify;">
+							So you get more of the benefits you need, and less of the bloat you don’t.
+						</p>
+					</div>
+					<div class="col-md-5 col-md-offset-1 col-sm-6 col-sm-offset-1 text-center">
+						<img alt="A9 BSS" src="img/a9bss.png">
+					</div>
+				</div>
+
+			</div>
+		</section>
+
+		<section class="image-square right bg-dark">
+			<div class="col-md-6 image">
+				<div class="background-image-holder">
+					<img alt="image" class="background-image" src="img/tailor.jpg">
+				</div>
+			</div>
+			<div class="col-md-6 content">
+				<h2>Tailor made security</h2>
+				<p class="mb0" style="text-align: justify; font-size: medium;">
+					The A9-BSS customises aspects from each of the popular delivery methods, to best deliver the desired outcomes in a cost effective and efficient manner.
+				</p>
+				<br />
+				<p style="text-align: justify; font-size: medium;">
+					Our team will work with you to ascertain the aspects that are best utilised in an ‘as a Service’ model, and those best utilised in a ‘Managed Service’ model. We’ll then tailor a package uniquely for your organisation that delivers real, lasting results.
+				</p>
+			</div>
+		</section>
+
+		<section class="image-square left">
+			<div class="col-md-6 image">
+				<div class="background-image-holder">
+					<img alt="image" class="background-image" src="img/outcomes2.jpg">
+				</div>
+			</div>
+			<div class="col-md-6 col-md-offset-1 content">
+				<h2>Advanced outcomes</h2>
+				<p class="mb0" style="text-align: justify; font-size: medium;">
+					At Aegis 9, we focus on more than just security.
+				</p>
+				<br />
+				<p style="text-align: justify; font-size: medium;">
+					Through our bespoke approach, we seek to find the balance between product, process, and people—ensuring that the overall framework exists to deliver the best outcomes for your organisation, company wide.
+				</p>
+			</div>
+		</section>
+
+
+	</div>
+
+	<div id="organisations-container" class="page-content hidden">
+		<section class="image-bg overlay pt240 pb240 pt-xs-180 pb-xs-180" style="max-height:650px !important;">
+			<div class="background-image-holder">
+				<img alt="image" class="background-image" src="img/1146511178.jpg">
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-8 pull-right text-right">
+						<h3 class="mb0 uppercase bold italic">Today, organisations need to work more seamlessly than ever before.</h3>
+					</div>
+				</div>
+
+			</div>
+		</section>
+
+		<section>
+			<div class="container" style="width: 90%">
+				<div class="panel-group col-md-11">
+
+					<div style="border-bottom: 1px solid #e9e9e9;">
+						<div class="panel-heading" id="headingOne" style="border:1px solid red; border: none !important">
+							<h4 class="panel-title bold">
+								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+									<i class="float-right fa fa-plus fa-2x" aria-hidden="true"></i>
+									<span class="accordian-title">Is your security program efficient, repeatable, and transparent with built in redundancy?</span>
+								</a>
+							</h4>
+						</div>
+						<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+							<div class="panel-body" style="padding-left: 30px !important;">
+								<p style="text-align:justify;">Security programs should evolve with the needs and objectives of the organisation. They should have the ability to translate meaningful and factual information, collected from the environment, into information the executive can use to make informed decisions based on sound risk management principles.</p>
+								<p style="text-align:justify;">Too often, Security programs become disconnected. When this happens, information used to make critical decisions may not be reliable. Likewise, resourcing models should also evolve to ensure associated costs are proportionately balanced.</p>
+								<p style="text-align:justify;">An efficient Security program should also deliver cost efficiencies – more bodies doesn’t always equal better outcomes!
+							</div>
+						</div>
+					</div>
+
+					<div style="border-bottom: 1px solid #e9e9e9;">
+						<div class="panel-heading" role="tab" id="headingTwo">
+							<h4 class="panel-title bold">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+									<i class="float-right fa fa-plus fa-2x" aria-hidden="true"></i>
+									<span class="accordian-title">Is your Security program personnel resource based?</span>
+								</a>
+							</h4>
+						</div>
+						<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+							<div class="panel-body" style="padding-left: 30px !important;">
+								<p>Personnel based approaches are becoming expensive and cumbersome. Not enough personnel results in poor security performance, too many personnel results in an expensive and bloated environment.</p>
+							</div>
+						</div>
+					</div>
+
+					<div style="border-bottom: 1px solid #e9e9e9;">
+						<div class="panel-heading" role="tab" id="headingThree">
+							<h4 class="panel-title bold">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+									<i class="float-right fa fa-plus fa-2x" aria-hidden="true"></i>
+									<span class="accordian-title">Does your organisation know why it wants or needs to be compliant, and what it needs to be compliant with?</span>
+								</a>
+							</h4>
+						</div>
+						<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+							<div class="panel-body" style="padding-left: 30px !important;">
+								<p>Is it because “the book” said so? Because you’ve always done it that way? Compliance for the sake of being compliant is a major unnecessary cost.</p>
+							</div>
+						</div>
+					</div>
+
+					<div style="border-bottom: 1px solid #e9e9e9;">
+						<div class="panel-heading" role="tab" id="headingFour">
+							<h4 class="panel-title bold">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+									<i class="float-right fa fa-plus fa-2x" aria-hidden="true"></i>
+									<span class="accordian-title">Is Security integrated seamlessly with the business?</span>
+								</a>
+							</h4>
+						</div>
+						<div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+							<div class="panel-body" style="padding-left: 30px !important;">
+								<p>Isolated security views and assessments are often lost in translation because the information isn’t meaningful to key decision makers, further if security is not integrated, then it may be bypassed or missed by other key business areas.</p>
+							</div>
+						</div>
+					</div>
+
+					<div style="border-bottom: 1px solid #e9e9e9;">
+						<div class="panel-heading" role="tab" id="headingFive">
+							<h4 class="panel-title bold">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+									<i class="float-right fa fa-plus fa-2x" aria-hidden="true"></i>
+									<span class="accordian-title">Is your security program based on point solutions?</span>
+								</a>
+							</h4>
+						</div>
+						<div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
+							<div class="panel-body style=" padding-left: 30px !important;"">
+								<p class="p1">A common issue with security practice in many organisations is the push for point solutions, based on the belief that it will solve many other issues, and without understanding what business problem or risk is being mitigated.</p>
+								<p class="p1">Each key aspect of security is a critical piece of a broader picture. The lost art in the security, consultancy, and managed service industry is the creation of effective models that deliver, monitor, test, and improve each of the contributing aspects both individually and holistically.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+
+	<div id="serviceprovider-container" class="page-content hidden">
+		<section class="image-bg overlay pt240 pb240 pt-xs-180 pb-xs-180" style="max-height:650px !important;">
+			<div class="background-image-holder">
+				<img alt="image" class="background-image" src="img/1061299140.jpg">
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-8">
+						<h3 class="mb0 uppercase bold italic">Service providers are relied on to deliver consistently, efficiently and effectively.</h3>
+					</div>
+				</div>
+
+			</div>
+		</section>
+
+		<section>
+			<div class="container" style="width: 90%">
+				<div class="panel-group col-md-11">
+
+					<div style="border-bottom: 1px solid #e9e9e9;">
+						<div class="panel-heading" id="headingSix" style="border:1px solid red; border: none !important">
+							<h4 class="panel-title bold">
+								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="true" aria-controls="collapseOne">
+									<i class="float-right fa fa-plus fa-2x" aria-hidden="true"></i>
+									<span class="accordian-title">Are you supporting and regularly considering your organisation’s Security program?</span>
+								</a>
+							</h4>
+						</div>
+						<div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
+							<div class="panel-body" style="padding-left: 30px !important;">
+								<p>Security programs should constantly evolve with the needs and objectives of the organisation. The same is true for Service providers and the way they deliver security solutions to customers.</p>
+								<p>This includes resourcing models, to ensure efficiencies are realised and passed along. While each customer will have varying requirements and the scope of services will differ slightly, overarching security requirements are consistent.</p>
+								<p>Therefore, in most cases, regardless of the scope, it is highly likely that the customer will require security services at some level.</p>
+							</div>
+						</div>
+					</div>
+
+					<div style="border-bottom: 1px solid #e9e9e9;">
+						<div class="panel-heading" role="tab" id="headingSeven">
+							<h4 class="panel-title bold">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+									<i class="float-right fa fa-plus fa-2x" aria-hidden="true"></i>
+									<span class="accordian-title">Do you have a consistent service offering across accounts?</span>
+								</a>
+							</h4>
+						</div>
+						<div id="collapseSeven" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSeven">
+							<div class="panel-body" style="padding-left: 30px !important;">
+								<p>If so, is it agile and responsive to your customer’s needs, or a one size fits all approach? Do you realise scales of economy and pass savings onto your customer? Aegis 9 will help ensure that your offering is streamlined, effective, responsive and compelling.</p>
+							</div>
+						</div>
+					</div>
+
+					<div style="border-bottom: 1px solid #e9e9e9;">
+						<div class="panel-heading" role="tab" id="headingEight">
+							<h4 class="panel-title bold">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+									<i class="float-right fa fa-plus fa-2x" aria-hidden="true"></i>
+									<span class="accordian-title">Is your Security program personnel resource based, or solely product based?</span>
+								</a>
+							</h4>
+						</div>
+						<div id="collapseEight" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingEight">
+							<div class="panel-body" style="padding-left: 30px !important;">
+								<p>Personnel based approaches are becoming expensive and cumbersome. Not enough personnel results in poor security performance.</p>
+								<p>Too many personnel results in an expensive and bloated environment. Product based solutions on the other hand often miss the mark on defining the critical outputs, only resolve the perceived problem, and often won’t improve the broader framework.</p>
+								<p>Critical to a well rounded Security program is finding the correct, unique balance of the two.</p>
+							</div>
+						</div>
+					</div>
+
+					<div style="border-bottom: 1px solid #e9e9e9;">
+						<div class="panel-heading" role="tab" id="headingNine">
+							<h4 class="panel-title bold">
+								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+									<i class="float-right fa fa-plus fa-2x" aria-hidden="true"></i>
+									<span class="accordian-title">Is Security integrated with the overall business model, from pre-sales through to delivery and support?</span>
+								</a>
+							</h4>
+						</div>
+						<div id="collapseNine" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingNine">
+							<div class="panel-body" style="padding-left: 30px !important;">
+								<p>While Security services alone may not directly increase overall company sales, providing quality security services can develop a high level of assurance and trust from your customers by reassuring them that you have considered all their needs.</p>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+		</section>
+	</div>
+
+	<div id="careers-container" class="page-content hidden">
+
+		<section class="image-bg overlay pt240 pb240 pt-xs-100 pb-xs-100" style="max-height:550px !important;">
+			<div class="background-image-holder">
+				<img alt="image" class="background-image" src="img/393304033.jpg">
+			</div>
+			<div class="container v-align-transform">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
+						<img alt="Logo" class="image-small mb8" src="img/logo.png">
+						<h4 class="uppercase mb32 bold" style="color: #d8d8d8">A bright future awaits !</h4>
+					</div>
+				</div>
+
+			</div>
+		</section>
+
+		<section class="pb0">
+			<div class="container v-align-transform mb0">
+				<p>
+					Aegis9 is an equal opportunity employer that places a heavy focus on recruiting the right people by focussing on their capability, attitude, and aptitude.
+					This approach has built a highly competent team operating within a strong culture.
+					Our culture also sees us attracting industry’s best, and our commitment to our people enables excellent employee retention.
+					If you would like to apply for an existing vacancy or let us know of your interest in working for us please send your CV to <a href="mailto: careers@aegis9.com.au">careers@aegis9.com.au</a>.
+				</p>
+			</div>
+		</section>
+
+		<section class="pt0">
+			<div id="vertical-timeline" class="vertical-container dark-timeline center-orientation mt0">
+				<div class="vertical-timeline-block">
+					<div class="vertical-timeline-icon bg-success">
+						<i class="fas fa-briefcase"></i>
+					</div>
+
+					<div class="vertical-timeline-content">
+						<h4 class="bold">Security Cleared Professionals</h4>
+						<span class="vertical-date bold pb-xs-40">2 Mar 2020</span>
+						<hr />
+						<p>
+							As a result of the strong partnerships that we have forged with our clients, a number of them have asked us to reach out to the market now and identify Cyber-Security professionals.
+						</p>
+						<p>
+							If you are on the lookout for your next exciting opportunity, please reach out to us today.
+						</p>
+						<p>
+							We are expecting to have multiple full-time (permanent) and contract openings that would range from all different levels of seniority (from entry level/junior roles right through to senior gigs).
+						</p>
+						<p>
+							Skills/backgrounds we are searching for, but not limited to:
+							<ul>
+								<li>GRC professionals</li>
+								<li>Networking Security</li>
+								<li>Security Engineers</li>
+								<li>Security Architects</li>
+								<li>Project Managers</li>
+								<li>Security Consultants</li>
+								<li>Information Security Managers</li>
+							</ul>
+						</p>
+						<p>
+							<i>Important note: Although we would usually welcome overseas queries, please note that you must hold a valid AU Citizenship – the roles we are currently recruiting for require an Australia Security Clearance (please indicate your clearance level in your application)</i>
+						</p>
+					</div>
+				</div>
+
+				<div class="vertical-timeline-block">
+					<div class="vertical-timeline-icon bg-success">
+						<i class="fas fa-briefcase"></i>
+					</div>
+
+					<div class="vertical-timeline-content">
+						<h4 class="bold">Business Analyst</h4>
+						<span class="vertical-date bold pb-xs-40">2 Mar 2020</span>
+						<hr />
+						<p>
+							Our client requires the services of experienced multiple Business Analysts to meet the needs of the Department and business area’s clients through the development and maintenance of innovative, robust and sustainable IT System systems.
+						</p>
+						<p>
+							This role represents an exciting opportunity for a Business Analyst to join a multidisciplinary team. As a Business Analyst, you will be responsible for undertaking a range of requirement gathering activities. You will also be required to conduct investigations, undertake specialist or technical research and analysis activities, or provide professional advice within an area of specialization based on systems knowledge, policy, and legislation.
+							<ol style="padding-left: 14px !important; padding-right: 14px !important">
+								<li>Demonstrated experience applying user-centered techniques and knowledge of artefacts;</li>
+								<li>Map current and future state business processes;</li>
+								<li>Lead consultation with internal and external stakeholders;</li>
+								<li>Provide assistance in the planning and management of user acceptance activities;</li>
+								<li>Support the projects undertaken by the business area in line with the DTA processes;</li>
+								<li>Assure the development of BA artefacts, as required.</li>
+							</ol>
+						</p>
+
+						<p>
+							<i>Important note: Although we would usually welcome overseas queries, please note that you must hold a valid AU Citizenship – the roles we are currently recruiting for require an Australia Security Clearance (please indicate your clearance level in your application)</i>
+						</p>
+					</div>
+				</div>
+
+
+			</div>
+		</section>
+	</div>
+
+	<div id="contact-container" class="page-content hidden">
+		<section class="image-bg overlay pt160 pb240 pt-xs-160 pb-xs-180" style="max-height:550px !important;">
+			<div class="container">
+				<div class="row text-center">
+					<div class="col-sm-12">
+						<div class="col-md-2 col-xs-1"></div>
+						<div class="col-lg-9 col-md-9 col-xs-11 col-lg-offset-1 col-md-offset-1">
+							<h1 class="uppercase bold" style="color:#d8d8d8 !important;">Get in touch</h1>
+							<h5 class="uppercase bold mb32" style="color:#f8f8f8 !important;">If you‘re ready to get started with Aegis 9, have more questions about what we do, or just want to chat, we’re here to help. Complete the form and we’ll get back to you shortly.</h5>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+			<div class="background-image-holder">
+				<img alt="image" class="background-image" src="img/contact.jpg">
+			</div>
+		</section>
+
+		<section>
+			<div class="col-md-12">
+				<div class="container col-sm-12 col-md-10 col-md-offset-1">
+					<div class="row">
+						<!--<div class="col-sm-6 col-md-5">
+							<h4 class="uppercase">Get In Touch</h4>
+							<p style="text-align: justify;">
+								If you‘re ready to get started with Aegis 9, have
+								more questions about what we do, or just want
+								to chat, we’re here to help. Shoot us an email
+								and we’ll get back to you shortly.
+							</p>
+
+							<hr>-->
+							<!--<p>
+								<strong>E:</strong>&nbsp;enquiry@aegis9.com.au<br>
+							</p>-->
+						<!--</div>-->
+
+						<div class="col-sm-12 col-md-12">
+							<form class="form-email" data-success="Thanks for your submission, we will be in touch shortly." data-error="Please fill all fields correctly.">
+								<div class="col-md-6 col-sm-12">
+									<input type="text" class="validate-required" name="name" placeholder="Your Name">
+								</div>
+								<div class="col-md-6 col-sm-12">
+									<input type="text" class="validate-required" name="surname" placeholder="Your Surname">
+								</div>
+								<div class="col-md-6 col-sm-12">
+									<input type="text" class="validate-required validate-email" name="email" placeholder="Email Address">
+								</div>
+								<div class="col-md-6 col-sm-12">
+									<input type="text" class="validate-required" name="tel" placeholder="Your Phone Number">
+								</div>
+
+								<div class="col-md-12">
+									<textarea class="validate-required" name="message" rows="4" placeholder="Message"></textarea>
+								</div>
+
+								<div class="col-md-6 col-sm-12">
+									<select class="validate-required" name="state">
+										<option value="" style="font-size: 10pt !important;">-- State --</option>
+										<option value="ACT" style="font-size: 10pt !important;">ACT</option>
+										<option value="NSW" style="font-size: 10pt !important;">NSW</option>
+										<option value="VIC" style="font-size: 10pt !important;">VIC</option>
+										<option value="QLD" style="font-size: 10pt !important;">QLD</option>
+										<option value="SA" style="font-size: 10pt !important;">SA</option>
+										<option value="NT" style="font-size: 10pt !important;">NT</option>
+										<option value="TAS" style="font-size: 10pt !important;">TAS</option>
+										<option value="WA" style="font-size: 10pt !important;">WA</option>
+									</select>
+								</div>
+
+								<div class="col-md-12">
+									<button class="btn btn-lg btn-primary" style="width: 100% !important; color: #fff !important">Send Message</button>
+								</div>
+								
+								
+								
+							</form>
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+
+		</section>
+	</div>
+
+	<footer class="footer bg-dark text-center-xs mt-0" style="padding-top:30px !important; padding-bottom: 28px !important">
+		<section class="bg-dark pt0 pb0 mt-10" style="padding-bottom: 20px !important;">
+			<div class="container">
+				<div class="row col-md-12">
+					<div class="col-sm-12 text-center">
+						<h3 class="mb8"><!--Ready for simpler security?<br />-->Have a question ?</h3>
+						<br />
+						<a class="btn btn-lg btn-primary" href="#contact-container">Contact Us</a>
+					</div>
+				</div>
+				<hr />
+				<div class="row col-md-12">
+					<div class="col-sm-4 text-center">
+						<span class="">
+							© 2020 Aegis 9 Pty Ltd&nbsp;&nbsp;-&nbsp;&nbsp;All Rights Reserved
+						</span>
+					</div>
+
+					<div class="col-sm-4 text-right text-right pull-right">
+						<ul class="list-inline social-list">
+							<li><strong style="color:#c0c0c0 !important">FOLLOW US&nbsp;&nbsp;</strong></li>
+							<li><a title="Linkedin" href="https://www.linkedin.com/company/aegis-9/" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+							<li><a title="Twitter" href="#"><i class="fab fa-twitter"></i></a></li>
+							<li><a title="Facebook" href="#"><i class="fab fa-facebook"></i></a></li>
+							<li><a title="Vimeo" href="#"><i class="fab fa-vimeo"></i></a></li>
+							<li><a title="Youtube" href="#"><i class="fab fa-youtube"></i></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+	</footer>
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/smooth-scroll.min.js"></script>
+	<script src="js/flexslider.min.js"></script>
+	<script src="js/parallax.js"></script>
+	<script src="js/scripts.js"></script>
+
+	<script type="text/javascript">
+		// Typerwrite text content. Use a pipe to indicate the start of the second line "|".
+		var textArray = [
+			"Service Providers",
+			"Organisations",
+			"Small Businesses",
+			"Government Agencies",
+			"Private Enterprise",
+			"Industry Leaders"
+		];
+
+
+		//Run the loop
+		typeWriter("type-output", textArray);
+
+
+
+	</script>
+</body>
+</html>
+				
