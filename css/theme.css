@@ -558,6 +558,10 @@ ul.lead li {
 .bg-dark {
   background: #292929;
 }
+.bg-black {
+  background: #000000;
+}
+
 .color-body {
   color: #666;
 }
@@ -609,6 +613,34 @@ footer.bg-dark h6,
 .bg-primary h6 {
   color: #ffffff;
 }
+
+.bg-black h1,
+nav.bg-black h1,
+footer.bg-black h1,
+.bg-primary h1,
+.bg-black h2,
+nav.bg-black h2,
+footer.bg-black h2,
+.bg-primary h2,
+.bg-black h3,
+nav.bg-black h3,
+footer.bg-black h3,
+.bg-primary h3,
+.bg-black h4,
+nav.bg-black h4,
+footer.bg-black h4,
+.bg-primary h4,
+.bg-black h5,
+nav.bg-black h5,
+footer.bbg-black h5,
+.bg-primary h5,
+.bg-black h6,
+nav.bg-black h6,
+footer.bg-black h6,
+.bg-primary h6 {
+  color: #ffffff;
+}
+
 .bg-dark p,
 nav.bg-dark p,
 footer.bg-dark p,
@@ -623,6 +655,22 @@ footer.bg-dark li,
 .bg-primary li {
   color: #fefefe;
 }
+
+.bg-black p,
+nav.bg-black p,
+footer.bg-black p,
+.bg-primary p,
+.bg-black span,
+nav.bg-black span,
+footer.bg-black span,
+.bg-primary span,
+.bg-black li,
+nav.bg-black li,
+footer.bg-dark li,
+.bg-primary li {
+  color: #fefefe;
+}
+
 @media all and (max-width: 767px) {
   section {
     padding: 80px 0;
@@ -946,7 +994,7 @@ nav .btn,
 }
 
 .nav-bar-default .inner-link{
-  color: #555555 !important;
+  color: green !important;
 
 }
 
@@ -2321,14 +2369,14 @@ button[type="submit"] .form-loading {
   font-weight: 700;
 }
 .button-tabs .active .tab-title {
-  background: #333;
+  background: #8c75ff;
   color: #fff;
 }
 .button-tabs .tab-title:hover {
-  background: #eee;
+  background: #d8d8d8;
 }
 .button-tabs .active .tab-title:hover {
-  background: #333;
+  background: #968AB6;
 }
 .button-tabs.vertical {
   overflow: hidden;
@@ -5068,6 +5116,21 @@ footer.bg-dark a {
 .bg-dark .social-list a:hover {
   opacity: 1;
 }
+
+.bg-black .social-list a,
+.image-bg .social-list a {
+  color: #fff;
+  opacity: .5;
+}
+.bg-black .social-list a:hover {
+  opacity: 0.9;
+  color: #8c75ff;
+}
+
+.bg-black .btn-primary{
+  color: #222222;;
+}
+
 .image-bg .social-list a {
   opacity: 1;
 }
@@ -5372,8 +5435,8 @@ footer.bg-dark a {
 }
 @media all and (max-width: 990px) {
     h2 {
-        font-size: 20px !important;
-        color: green !important;
+        font-size: 30px !important;
+        
     }
 
   .mb-sm-0 {
@@ -5568,8 +5631,8 @@ footer.bg-dark a {
 }
 @media all and (max-width: 767px) {
     h2 {
-        font-size: 20px !important;
-        color: red !important;  
+        font-size: 30px !important;
+        
     }
 
   .mb-xs-0 {

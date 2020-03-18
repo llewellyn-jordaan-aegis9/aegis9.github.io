@@ -42,6 +42,15 @@
     color: #b0b0b0 !important;
 }
 
+/*--------------------------------------------- NAVIGATION ------------------------------------------------------------------------*/
+
+.inner-link:hover{
+    color: #8c75ff !important;
+}
+
+.inner-link:active{
+    color: #ADAEAC !important;
+}
 /*--------------------------------------------- TIMELINE ------------------------------------------------------------------------*/
 
 .vertical-container {
@@ -353,4 +362,12 @@ output {
 
 .windingsbullet {
     font-family: Wingdings;
+}
+
+.btn-primary{
+    background-color: #8c75ff !important;
+}
+
+li .active{
+    background-color: red !important;
 }
