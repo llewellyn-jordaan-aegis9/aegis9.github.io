@@ -376,3 +376,13 @@ li .active{
 .methods-background {
     background-color: #252e30 !important;
   }
+
+
+  .feature-heading{
+    font-size: 15pt !important; 
+    font-family: "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+
+  .feature-icon{
+    font-size: 28pt;
+  }

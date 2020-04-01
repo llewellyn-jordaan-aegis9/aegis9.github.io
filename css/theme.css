@@ -5386,6 +5386,27 @@ footer.bg-dark a {
 .pb240 {
   padding-bottom: 240px;
 }
+
+.pl2{
+  padding-left: 2px;
+}
+
+.pl4{
+  padding-left: 4px;
+}
+
+.pl6{
+  padding-left: 6px;
+}
+
+.pl8{
+  padding-left: 8px;
+}
+
+.pl10{
+  padding-left: 10px;
+}
+
 @media all and (max-width: 990px) {
   .mb-s-0 {
     margin-bottom: 0;
