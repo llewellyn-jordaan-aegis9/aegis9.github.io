@@ -371,3 +371,8 @@ output {
 li .active{
     background-color: red !important;
 }
+
+
+.methods-background {
+    background-color: #74827a !important;
+  }
