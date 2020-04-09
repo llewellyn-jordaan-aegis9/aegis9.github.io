@@ -339,7 +339,6 @@ output {
   
 .cursor{
     color: rgb(139,117,255) !important;
-    font-weight: bold !important;
 }
 
   @keyframes blink {
@@ -368,9 +367,6 @@ output {
     background-color: #8c75ff !important;
 }
 
-li .active{
-    background-color: red !important;
-}
 
 
 .methods-background {
