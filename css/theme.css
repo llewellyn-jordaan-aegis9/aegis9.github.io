@@ -820,7 +820,7 @@ footer.bg-dark li,
   font-size: 24px;
   min-width: 0;
 }
-.btn-icon.btn-sm {
+.btn- .btn-sm {
   width: 30px;
   height: 30px;
   line-height: 29px;
@@ -1740,7 +1740,7 @@ nav.nav-centered.outOfSight .logo {
 }
 /*!---------- 10. ICONS ----------*/
 .icon {
-  font-size: 64px;
+  font-size: 54px;
   display: inline-block;
   color: #292929;
 }
@@ -2558,7 +2558,7 @@ button[type="submit"] .form-loading {
   box-shadow: none !important;
 }
 .bg-primary .progress-bar {
-  background: #a760ff;
+  background: #8c75ff;
 }
 .progress-1 {
   height: 32px;
@@ -5127,9 +5127,11 @@ footer.bg-dark a {
   color: #8c75ff;
 }
 
+/*
 .bg-black .btn-primary{
   color: #222222;;
 }
+*/
 
 .image-bg .social-list a {
   opacity: 1;

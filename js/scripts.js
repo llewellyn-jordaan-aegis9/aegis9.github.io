@@ -89,12 +89,12 @@ $(document).ready(function () {
     }
 
     var textArray = [
-        "Service Providers",
-        "Organisations",
-        "Small Businesses",
-        "Government Agencies",
-        "Private Enterprise",
-        "Industry Leaders"
+        "service providers",
+        "organisations",
+        "small businesses",
+        "government agencies",
+        "private enterprise",
+        "industry leaders"
     ];
 
      //Run the loop
